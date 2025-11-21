@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.env
+venv/
+.env*
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VSCode / JetBrains
+.vscode/
+.idea/
+
+# data and build
+dist/
+build/
+
+# Notebook checkpoints and outputs
+*.nbconvert.ipynb
+
+# Other
+*.log
